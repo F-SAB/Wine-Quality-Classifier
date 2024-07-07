@@ -10,17 +10,12 @@ Exploratory Data Analysis (EDA)
 Model Building
 Evaluation Metrics
 Hyperparameter Tuning
-Results
-Conclusion
-Future Improvements
-Usage
-Contributing
-License
+Insights and Observation
 
 # Introduction
 This project aims to predict the quality of wines based on their chemical characteristics using machine learning algorithms. It involves data preprocessing, exploratory data analysis (EDA), model training, evaluation, and hyperparameter tuning to achieve the best possible classification accuracy.
 
-#Dataset
+# Dataset
 The dataset used in this project is sourced from https://archive.ics.uci.edu/ml/datasets/Wine+Quality and contains information on various chemical properties of wines along with their quality ratings.
 
 # Features
